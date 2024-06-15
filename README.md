@@ -14,12 +14,12 @@ This README file provides an overview of the Python PyQt5 application for calcul
 ## Project Description
 This project is for the compliance of our discrete mathematics final Performance Innovative Task:
 Groupmates:
-MOSQUIDA, EDIMAR                                                                    SUBMITTED TO: PRECIOUS LAPURA
-PACAMO, RAMMEL 
-HARLAN, MIKE
-RUBIN, ASHLEE
-BUHISAN, MARHEAN
-OBSID, REGIE ANN   
+- MOSQUIDA EDIMAR
+- PACAMO, RAMMEL 
+- HARLAN, MIKE
+- RUBIN, ASHLEE
+- BUHISAN, MARHEAN
+- OBSID, REGIE ANN   
 
 The application is designed to perform calculations for combinations, combinations with repetition, permutations with replacement, and permutations. It provides a user-friendly interface using PyQt5 and allows users to input values for N and R, and then calculates the results.
 
