@@ -1883,7 +1883,7 @@ font: 87 7pt &quot;Arial Black&quot;;
 </string>
     </property>
     <property name="text">
-     <string>W REPEATATION</string>
+     <string>W REPETATION</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_3">

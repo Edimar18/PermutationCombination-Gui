@@ -13,7 +13,7 @@ This README file provides an overview of the Python PyQt5 application for calcul
 
 ## Project Description
 This project is for the compliance of our discrete mathematics final Performance Innovative Task:
-Groupmates:
+- Groupmates:
 - MOSQUIDA EDIMAR
 - PACAMO, RAMMEL 
 - HARLAN, MIKE
@@ -59,5 +59,3 @@ The code is organized into a single Python file named `main.py`. The file contai
 - Add error handling for invalid input values.
 - Implement unit tests to ensure the accuracy of calculations.
 - Add more advanced features, such as calculating probabilities or generating random permutations.
-
-Please let me know if you need any further assistance!
